@@ -1,4 +1,4 @@
-# My-Fortfolio
-Im zahir
-I am in Dhaka
-This Bangladesh
+# My-Portfolio
+- I'm zahir
+- I am in Dhaka
+
